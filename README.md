@@ -18,8 +18,6 @@ The goal of this analysis is to evaluate revenue drivers, customer purchasing pr
 
 ## 📊 Dashboard Preview
 
-> 💡 *Below is a static preview of the interactive dashboard built in Power BI.*
-
 <img width="1112" height="623" alt="image" src="https://github.com/user-attachments/assets/a9113b34-d5a5-4a69-a95a-4e81665b76fb" />
 
 ---
