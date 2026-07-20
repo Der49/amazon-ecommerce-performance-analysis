@@ -1,11 +1,7 @@
 # 🛒 Amazon E-Commerce Performance & Sales Analysis (2024–2026)
 
-![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Cleaning-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-An end-to-end data analytics portfolio project analyzing **1,000,000 Amazon e-commerce transactions**. This project covers automated data cleaning in Python and interactive business intelligence reporting in Power BI to evaluate global sales, product categories, fulfillment metrics, and discounting strategies from March 2024 through March 2026.
+An end-to-end data analytics portfolio project analyzing **1,000,000 Amazon e-commerce transactions**. This project includes data cleaning in Python and a business intelligence reporting in Power BI to evaluate global sales, product categories and discounting strategies from March 2024 through March 2026.
 
 ---
 
@@ -36,7 +32,7 @@ The goal of this analysis is to evaluate revenue drivers, customer purchasing pr
 
 > 💡 *Below is a static preview of the interactive dashboard built in Power BI.*
 
-![Amazon Dashboard Preview](Amazon%20Dashboard.pdf)
+<img width="1112" height="623" alt="image" src="https://github.com/user-attachments/assets/a9113b34-d5a5-4a69-a95a-4e81665b76fb" />
 
 ---
 
