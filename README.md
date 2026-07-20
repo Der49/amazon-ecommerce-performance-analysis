@@ -16,18 +16,6 @@ The goal of this analysis is to evaluate revenue drivers, customer purchasing pr
 
 ---
 
-## 📈 High-Level KPI Summary
-
-| Metric | Performance Value |
-| :--- | :--- |
-| **Total Revenue** | **$9.94 Billion** |
-| **Total Orders** | **1,000,000 Orders** |
-| **Average Price / Order** | **$9.94K** |
-| **Average Customer Rating** | **3.93 / 5.00** |
-| **Analysis Period** | **March 2024 – March 2026** |
-
----
-
 ## 📊 Dashboard Preview
 
 > 💡 *Below is a static preview of the interactive dashboard built in Power BI.*
